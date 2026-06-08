@@ -1,6 +1,6 @@
 <!-- Hero Section with Dynamic Badges -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Potnuru+Sunay+%F0%9F%91%8B;Building+AI+that+heals%2C+teaches%2C+and+moves.;AI%2FML+Engineer+%7C+Team+Lead+%7C+Hackathon+Winner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Hey%2C+I'm+Potnuru+Sunay+%F0%9F%91%8B;Building+AI+that+heals%2C+teaches%2C+and+moves.;AI%2FML+Engineer+%7C+Team+Lead+%7C+Hackathon+Winner" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -116,22 +116,12 @@
 ## 📊 GitHub Stats (Live)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sunaypotnuru&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=sunaypotnuru&theme=radical&hide_border=false" width="48%" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunaypotnuru&layout=compact&theme=radical&include_all_commits=true&count_private=true" width="40%" alt="Top Languages" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunaypotnuru&theme=radical&area=true" width="55%" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sunaypotnuru&theme=radical&no-frame=true&row=1&column=6" width="100%" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sunaypotnuru&repo=NetraAi&theme=radical" width="49%" alt="Pinned Repo" />
+  <img src="https://streak-stats.demolab.com?user=sunaypotnuru&theme=radical&hide_border=false" width="49%" alt="GitHub Streak" />
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="49%" alt="Dev Quote" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunaypotnuru&theme=radical&area=true" width="100%" alt="Activity Graph" />
 </p>
 
 ---
