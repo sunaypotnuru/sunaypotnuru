@@ -115,22 +115,22 @@
 ## 📊 GitHub Stats (Live)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sunaypotnuru&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=sunaypotnuru&theme=radical&hide_border=false" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-shion.vercel.app/api?username=sunaypotnuru&show_icons=true&theme=radical&include_all_commits=true&count_private=true&_t=1" width="48%" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=sunaypotnuru&theme=radical&hide_border=false&_t=1" width="48%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunaypotnuru&layout=compact&theme=radical&include_all_commits=true&count_private=true" width="40%" alt="Top Languages" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunaypotnuru&theme=radical&area=true" width="55%" alt="Activity Graph" />
+  <img src="https://github-readme-stats-shion.vercel.app/api/top-langs/?username=sunaypotnuru&layout=compact&theme=radical&include_all_commits=true&count_private=true&_t=1" width="40%" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunaypotnuru&theme=radical&area=true&_t=1" width="55%" alt="Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sunaypotnuru&theme=radical&no-frame=true&row=1&column=6" width="100%" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sunaypotnuru&theme=radical&no-frame=true&row=1&column=6&_t=1" width="100%" alt="Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=sunaypotnuru&limit=5&theme=radical&combine_all_yearly_contributions=true" width="49%" alt="Contributor Stats" />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="49%" alt="Dev Quote" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=sunaypotnuru&limit=5&theme=radical&combine_all_yearly_contributions=true&_t=1" width="49%" alt="Contributor Stats" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&_t=1" width="49%" alt="Dev Quote" />
 </p>
 
 ---
