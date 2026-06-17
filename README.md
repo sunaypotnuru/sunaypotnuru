@@ -167,3 +167,5 @@
 <!--START_SECTION:waka-->
 ```text
 No data yet – connect WakaTime to see your coding hours here.
+```
+<!--END_SECTION:waka-->
