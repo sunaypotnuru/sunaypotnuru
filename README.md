@@ -19,6 +19,8 @@
 
 ## 💫 About Me
 
+👋 **Hello! I'm Potnuru Sunay**, a passionate **B.Tech 2nd Year student** specializing in **Artificial Intelligence & Machine Learning (AI/ML)** at **Universal AI University**. I love building intelligent systems that solve real-world problems—ranging from healthcare diagnostics to automated robotics.
+
 * 🔹 **I’m currently working on** → Completing the **NEXUS EdTech platform** (95% done) – adding offline sync and multi-agent orchestration.
 * 🔹 **I’m looking to collaborate on** → Open-source AI for healthcare/edtech projects, especially those using **MCP, A2A, or LangGraph**.
 * 🔹 **I’m looking for help with** → Optimizing ML model inference on edge devices (Raspberry Pi/Jetson Nano) for rural deployments.
@@ -118,6 +120,11 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sunaypotnuru&theme=radical&hide_border=false" width="49%" alt="GitHub Streak" />
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="49%" alt="Dev Quote" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sunaypotnuru&show_icons=true&theme=radical&rank_icon=github&border_radius=10" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunaypotnuru&layout=compact&theme=radical&border_radius=10" width="49%" alt="Top Languages" />
 </p>
 
 <p align="center">
